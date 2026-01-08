@@ -7,7 +7,7 @@ The project focuses on **clean UI design, smooth user interaction, and custom Ja
 
 ## 🌐 Live Demo
 
-🔗 **Live Site:** YOUR_NETLIFY_URL
+🔗 **Live Site: https://iridescent-taiyaki-8e3150.netlify.app/
 
 ---
 
